@@ -1,9 +1,9 @@
 ### I am Idowu Oselumhe Ilekura
 
-- :zap: I love mathematics, machine learning, cloud computing and everything that revolves around the internet
+- :zap: I love mathematics, machine learning, Data Engineering cloud computing and everything that revolves around the internet
 - 🔭 I’m currently working on using Natural Language Processing to reduce suicide rate
 - Passionate about using Artificial Intellligence to solve Nigeria and Africa's challenges
-- 🌱 I’m currently learning Deep learning, Machine Learning and Cloud computing
+- 🌱 I’m currently learning Data Engineering, Deep learning, Machine Learning and Cloud computing
 - 👯 I’m looking to collaborate on Deep Learning related tasks
 - 💬 Ask me about Christianity,Deep Learning and Cloud Computing.
 - 📫 How to reach me: 
